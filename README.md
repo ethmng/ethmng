@@ -26,10 +26,10 @@
 const ethan = {
   name: "Ethan Ménagé",
   alias: "ethmng",
-  role: "Founder & CEO @ NoviaCode",
-  location: "Provins, Île-de-France, France 🇫🇷",
+  role: "Founder & Formateur @ NoviaCode",
+  location: "France 🇫🇷",
   status: "Actively building & teaching the next generation of coders",
-  education: "L3 Informatique - Paris 8 IED • BTS SIO SLAM (16/20) • BAC SN RISC (mention TB)",
+  education: "L3 Informatique (en cours) • BTS SIO SLAM (17/20 moy. pro. / 15/20 moy. gen.) • BAC SN RISC (mention TB)",
   motto: "Ship fast. Learn fast. Iterate faster. 🚀",
   currently: ["Formation en informatique", "Développement full-stack", "Projets EdTech", "Outils IA éducatifs"]
 };
@@ -97,9 +97,8 @@ J'ai fondé **NoviaCode**, une école de formation en informatique qui propose d
 
 <div align="center">
 
-![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ethmng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E85F7&icon_color=6E85F7&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ethmng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6E85F7&text_color=c9d1d9)
-
+![Ethan's GitHub Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 [![GitHub Streak](https://streak-stats.demolab.com?user=ethmng&theme=tokyonight&hide_border=true&background=0d1117&ring=6E85F7&fire=6E85F7&currStreakLabel=6E85F7)](https://github.com/ethmng)
 
 </div>
@@ -110,7 +109,7 @@ J'ai fondé **NoviaCode**, une école de formation en informatique qui propose d
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.ehnlabs.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ethanmenage.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanmenage/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ethn.pro/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethmng)
