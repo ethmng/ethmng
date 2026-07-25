@@ -87,7 +87,7 @@ J'ai fondé **NoviaCode**, une école de formation en informatique qui propose d
 | **[Sedna IA](https://sedna.noviacode.fr)** | IA spécialisée dans l'aide aux devoirs: guidage pédagogique sans donner les réponses directement | IA, Python / TypeScript | En cours |
 | **[MediaTek86](https://github.com/ethmng/MediaTek86)** | Application de gestion du personnel (projet d'étude BTS SIO SLAM) | C# / .NET | [Repo](https://github.com/ethmng/MediaTek86) |
 | **Nature & Gîtes** | Site web full-stack pour la SCIC Nature & Gîtes | React, Node.js, MySQL | [Site](https://n-g.fr) |
-| **Portfolio** | Site personnel | React / Next.js | [portfolio.ehnlabs.fr](https://portfolio.ehnlabs.fr) |
+| **Portfolio** | Site personnel | React / Next.js | [ethanmenage.fr](https://ethanmenage.fr) |
 
 </div>
 
