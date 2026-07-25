@@ -109,11 +109,10 @@ J'ai fondé **NoviaCode**, une école de formation en informatique qui propose d
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ethanmenage.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanmenage/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ethn.pro/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ethmng)
-[![NoviaCode](https://img.shields.io/badge/NoviaCode-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://noviacode.fr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0c7903?style=for-the-badge)](https://ethanmenage.fr)
+[![NoviaCode](https://img.shields.io/badge/NoviaCode-5839cd?style=for-the-badge)](https://noviacode.fr)
 
 </div>
 
@@ -121,5 +120,5 @@ J'ai fondé **NoviaCode**, une école de formation en informatique qui propose d
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0f23&height=120&section=footer" width="100%"/>
-<sub>✨ Created with passion — <strong>ethmng</strong> · Founder & CEO @ <a href="https://github.com/NoviaCodeFrance">NoviaCode</a></sub>
+<sub>✨ Created with passion <-> <strong>Ethan MENAGE</strong> <-> Founder & Formateur @ <a href="https://github.com/NoviaCodeFrance">NoviaCode</a></sub>
 </div>
