@@ -83,7 +83,7 @@ J'ai fondé **NoviaCode**, une école de formation en informatique qui propose d
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| **[NoviaCode](https://noviacode.fr)** | École de formation en informatique pour enfants et adolescents | Formation, Scratch, Python, IA, Minecraft Education | [Site](https://noviacode.fr) • [GitHub](https://github.com/NoviaCodeFrance) |
+| **[NoviaCode](https://noviacode.fr)** | École de formation en informatique pour enfants et adolescents | Formation, Scratch, Python, IA, Minecraft Education | [Site](https://noviacode.fr) • [GitHub](https://github.com/NoviaCode) |
 | **[Sedna IA](https://sedna.noviacode.fr)** | IA spécialisée dans l'aide aux devoirs: guidage pédagogique sans donner les réponses directement | IA, Python / TypeScript | En cours |
 | **[MediaTek86](https://github.com/ethmng/MediaTek86)** | Application de gestion du personnel (projet d'étude BTS SIO SLAM) | C# / .NET | [Repo](https://github.com/ethmng/MediaTek86) |
 | **Nature & Gîtes** | Site web full-stack pour la SCIC Nature & Gîtes | React, Node.js, MySQL | [Site](https://n-g.fr) |
@@ -120,5 +120,5 @@ J'ai fondé **NoviaCode**, une école de formation en informatique qui propose d
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0f23&height=120&section=footer" width="100%"/>
-<sub>✨ Created with passion <-> <strong>Ethan MENAGE</strong> <-> Founder & Formateur @ <a href="https://github.com/NoviaCodeFrance">NoviaCode</a></sub>
+<sub>✨ Created with passion <-> <strong>Ethan MENAGE</strong> <-> Founder & Formateur @ <a href="https://github.com/NoviaCode">NoviaCode</a></sub>
 </div>
